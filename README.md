@@ -3,9 +3,13 @@
 The following tasks were performed to build an image classification model using AWS SageMaker:
 
 Task 1: Create Notebook Instance
+
 Task 2: Download the Data
+
 Task 3: Extracting Annotations
+
 Task 4: Visualize the Data
+
 Task 5: Training Image for the Algorithm
 Task 6: Prepare Data for Sagemaker
 Task 7: Uploading Data to S3
